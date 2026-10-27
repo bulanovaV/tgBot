@@ -1,0 +1,2 @@
+ALTER TABLE price_alert
+RENAME COLUMN last_notified_price TO last_checked_price;

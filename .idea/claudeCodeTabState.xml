@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="projectPath" value="C:\Users\Вероника\flightwatcher" />
+              <option name="provider" value="codex" />
+              <option name="sessionId" value="01a17d71-50b9-7b02-acc6-0f7bf90f6330" />
+              <option name="cwd" value="C:\Users\Вероника\flightwatcher" />
+              <option name="model" value="gpt-5.6-sol" />
+              <option name="permissionMode" value="default" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
